@@ -45,7 +45,9 @@ No installation or additional dependencies are required.
 
 ## Live Demo
 
-Coming soon!
+## Live Demo
+
+[Click here to use the Task Manager]( https://michaelatano.github.io/Task-manager/)
 
 ## Author
 
